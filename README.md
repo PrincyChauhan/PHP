@@ -5,6 +5,8 @@
 * 2. Write a PHP program to use different data types.
 ---
 * 3. Write a PHP program to find difference between `GET` and `POST` method.(Input as username and password)
+            3_1  `GET` method
+            3_2  `POST` method
 ---
 * 4. Write a PHP program to find the entered year is leap year or not using textbox.
 ---
